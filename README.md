@@ -1,6 +1,6 @@
-# Eaint Thwin Kyaw - Senior Software Engineer Portfolio
+# Eaint Thwin Kyaw - Software Engineer Portfolio
 
-Standalone portfolio for Senior Software Engineer opportunities.
+Standalone portfolio for Software Engineer opportunities.
 
 ## Files
 
